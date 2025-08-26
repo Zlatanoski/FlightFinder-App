@@ -2,7 +2,7 @@
 
 A modern flight search web application built with Python Flask and Tailwind CSS. Search for flights by origin, destination, and date with real-time pricing data from Google Flights via SerpAPI.
 
-## 🚀 [Live Demo](https://your-app-url.onrender.com)
+## 🚀 [Live Demo](https://flightfinder-app.onrender.com/)
 
 > **Note:** The demo is hosted on a free tier service. Initial load may take up to 60 seconds as the server spins up. Subsequent requests will be much faster!
 
